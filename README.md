@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing WPF apps.<br>🤜🤛 I’m looking to collaborate on desktop app development projects.<br>🌱 I’m currently learning OOP.<br>🗣 I can speak Polish(native), English(C1), German(B2) and Italian(A2).
+🔭 I’m currently working on developing WPF apps.<br>🤝 I’m looking to collaborate on desktop app development projects.<br>🌱 I’m currently learning OOP.<br>🗣 I can speak Polish(native), English(C1), German(B2) and Italian(A2).
 
 
 
@@ -11,7 +11,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyo-night)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WiktorGmur&icon=0&color=0)](https://visitcount.itsvg.in)
