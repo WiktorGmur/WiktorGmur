@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mastering OOP concepts.<br>👯 I’m looking to collaborate on desktop app development.<br>🌱 I’m currently learning WPF.<br>
+🔭 I’m currently working on developing WPF apps.<br>👯 I’m looking to collaborate on desktop app development.<br>🌱 I’m currently learning OOP.<br>
 
 
 
