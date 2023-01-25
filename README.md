@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing WPF apps.<br>🤝 I’m looking to collaborate on desktop app development projects.<br>🌱 I’m currently learning OOP.<br>🗣 I can speak Polish(native), English(C1), German(B2) and Italian(A2).
+🔭 I’m currently working on a side C# project.<br>🤝 I’m looking to collaborate on desktop app development projects.<br>🌱 I’m currently learning how to use DS and Algorithms efficiently.<br>🗣 I speak Polish(native), English(C1), German(B2) and Italian(A2).
 
 
 
