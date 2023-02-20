@@ -1,4 +1,4 @@
-# root💀kali# whoami:
+# root💀kali# whoami
 🔭 I’m currently working on THM's Junior Penetration Tester's pathway.
 <br>🏆 I'm in the top 3% on the TryHackMe platform.
 <br>🤝 I’m looking to collaborate on offensive-cybersecurity related projects.
