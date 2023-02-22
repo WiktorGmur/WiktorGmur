@@ -1,8 +1,8 @@
 # root💀kali# whoami
 🙋‍♂️ I'm a high school cybersecurity student looking for opportunities.
 <br>🏆 I'm in the top 3% on the TryHackMe platform.
-<br>🔭 I’m currently working on THM's Junior Penetration Tester's pathway.
-<br>🤝 I’m looking to collaborate on offensive-cybersecurity related projects.
+<br>🔭 I’m currently enrolled in THM's SoC Level 1 pathway.
+<br>🤝 I’m looking to collaborate on cybersecurity related projects.
 <br>🗣 I speak Polish(native), English(C1), German(B2) and Italian(A2).
 
 
