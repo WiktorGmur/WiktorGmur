@@ -8,7 +8,7 @@
 
 ## 🌐 Socials: 
 [![Tryhackme](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/t00c4N)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/24602186)
+
 
 
 # 💻 Tech Stack:
