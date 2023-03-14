@@ -1,5 +1,5 @@
 # root💀kali# whoami
-🙋‍♂️ I'm a high school cybersecurity student looking for opportunities.
+🙋‍♂️ I'm a high school cybersecurity student looking for improvement opportunities.
 <br>🏆 I'm in the top 2% on the TryHackMe platform.
 <br>🔭 I’m currently enrolled in THM's Offensive Pentesting pathway.
 <br>🤝 I’m looking to collaborate on cybersecurity related projects.
