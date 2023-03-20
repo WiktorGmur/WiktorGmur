@@ -1,4 +1,4 @@
-# root💀kali# whoami
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF727&width=435&lines=%24+whoami)](https://git.io/typing-svg)
 🙋‍♂️ I'm a high school cybersecurity student looking for improvement opportunities.
 <br>🏆 I'm in the top 1% on the TryHackMe platform.
 <br>🔭 I’m currently enrolled in THM's Cybersecurity pathway.
