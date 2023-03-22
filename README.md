@@ -2,7 +2,7 @@
 🙋‍♂️ I'm a high school cybersecurity student looking for improvement opportunities.
 <br>🏆 TOP 1% on the TryHackMe platform.
 <br>🔭 I’m currently enrolled in THM's Red Teaming pathway.
-<br>🤝 I’m looking to collaborate on cybersecurity related projects.
+<br>🤝 I’m looking to collaborate on physical or digital Red Team engagements.
 <br>🗣 I speak Polish(native), English(C1), German(B2) and Italian(A2).
 
 
