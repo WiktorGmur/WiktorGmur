@@ -2,8 +2,8 @@
 
 🙋‍♂️ I'm a high school cybersecurity student looking for improvement opportunities.
 <br>🏆 TOP 1% on the TryHackMe platform.
-<br>🔭 I’m currently enrolled in THM's SOC Level 1 pathway.
 <br>👨‍🎓 Finished high school with <i><strong>4.9 GPA.</strong></i>
+<br>🔭 I’m currently enrolled in THM's SOC Level 1 pathway.
 
 
 ## 🌐 Socials: 
