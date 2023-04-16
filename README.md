@@ -1,7 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=200&color=3DF70C&multiline=true&width=435&lines=%24+whoami;A+Cybersecurity+Student)](https://git.io/typing-svg)
+
 🙋‍♂️ I'm a high school cybersecurity student looking for improvement opportunities.
 <br>🏆 TOP 1% on the TryHackMe platform.
 <br>🔭 I’m currently enrolled in THM's SOC Level 1 pathway.
+<br>👨‍🎓 Finished high school with <i><strong>4.9 GPA.</strong></i>
 
 
 ## 🌐 Socials: 
@@ -26,6 +28,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 <br>
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Virustotal](https://img.shields.io/badge/-VirusTotal-%23394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+<br>
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
