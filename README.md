@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=200&color=3DF70C&multiline=true&width=435&lines=%24+whoami;A+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
 🙋‍♂️ I'm a high school cybersecurity student looking for improvement opportunities.
-<br>🏆 <strong><i>TOP 1%</i></strong> on the TryHackMe platform.
+<br>🏆 <strong>TOP 1%</strong> on the TryHackMe platform.
 <br>👨‍🎓 Finished high school with <i><strong>4.9 GPA.</strong></i>
 <br>🔭 I’m currently enrolled in THM's SOC Level 1 pathway.
 
