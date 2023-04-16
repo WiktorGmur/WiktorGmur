@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=200&color=3DF70C&multiline=true&width=435&lines=%24+whoami;A+Cybersecurity+Student)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=200&color=3DF70C&multiline=true&width=435&lines=%24+whoami;A+Cybersecurity+Enthusiast+:))](https://git.io/typing-svg)
 
 🙋‍♂️ I'm a high school cybersecurity student looking for improvement opportunities.
 <br>🏆 TOP 1% on the TryHackMe platform.
