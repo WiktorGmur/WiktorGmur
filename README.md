@@ -9,7 +9,7 @@
 ## 🌐 Socials: 
 [![Tryhackme](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/t00c4N)
 
-## 💼 My Career:
+## 💼 My Journey:
 https://github.com/WiktorGmur/Already-Been-Done
 
 ## 💻 Technologies:
