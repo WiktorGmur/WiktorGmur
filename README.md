@@ -8,6 +8,7 @@
 
 ## 🌐 Socials: 
 [![Tryhackme](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/t00c4N)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pl-pl/users/wiktorgmur-4688/transcript)
 
 ## 🥾 My Cyber-Journey:
 https://github.com/WiktorGmur/Already-Been-Done
