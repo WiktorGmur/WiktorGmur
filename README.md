@@ -3,7 +3,7 @@
 🙋‍♂️ Cybersecurity student looking for improvement opportunities.
 <br>🏆 <strong>TOP 1%</strong> on TryHackMe.
 <br>👨‍🎓 Finished high school with <i><strong>4.9 GPA.</strong></i>
-<br>🔭 Currently enrolled in THM's SOC Level 1 pathway.
+<br>🔭 Currently enrolled in THM's Red Teaming pathway.
 
 
 ## 🌐 Socials: 
