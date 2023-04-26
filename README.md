@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2300&pause=500&color=0FF700&multiline=true&width=700&height=100&lines=%24whoami;A+Security+Researcher%2C+Web+Developer+and+a+CTF+Player)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=300&color=0FF700&multiline=true&width=700&height=100&lines=%24whoami;A+Security+Researcher%2C+Web+Developer+and+a+CTF+Player)](https://git.io/typing-svg)
 
 🙋‍♂️ Cybersecurity student looking for improvement opportunities.
 <br>🏆 <strong>TOP 1%</strong> on TryHackMe.
