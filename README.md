@@ -14,9 +14,6 @@
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/WiktorGmur)
 
 
-## 🥾 My Cyber-Journey:
-https://github.com/WiktorGmur/Already-Been-Done
-
 ## 💻 Technologies:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
