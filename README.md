@@ -5,7 +5,9 @@
 <br>🏵️ Ranked <strong>#6</strong> in Poland on TryHackMe. (April 2023)
 <br>👨‍🎓 Finished high school with <i><strong>4.9 GPA.</strong></i>
 <br>🔭 Currently enrolled in THM's Red Teaming pathway.
-
+<br>
+<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/t00c4N.png" alt="TryHackMe">
 
 ## 🌐 Socials: 
 [![Tryhackme](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/t00c4N)
