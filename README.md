@@ -4,7 +4,7 @@
 <br>🏆 <strong>TOP 1%</strong> on TryHackMe.
 <br>🏵️ Ranked <strong>#6</strong> in Poland on TryHackMe. (April 2023)
 <br>👨‍🎓 Finished high school with <i><strong>4.9 GPA.</strong></i>
-<br>🔭 Currently working on a personal project.
+<br>🔭 Currently working on getting to TOP 10 in Poland on Let's Defend.
 <br>
 <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/t00c4N.png" alt="TryHackMe">
