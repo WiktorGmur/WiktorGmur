@@ -1,16 +1,20 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=0FF700&multiline=true&width=700&height=60&lines=%24whoami;a+Security+Researcher%2C+a+Developer+and+a+CTF+Player)](https://git.io/typing-svg)
 
 🙋‍♂️ Cybersecurity student looking for improvement opportunities.
+<br>📸 Owner of <i><strong>"Hakuj Etycznie"</strong></i> on Youtube and Tiktok.
 <br>🏆 <strong>TOP 1%</strong> on TryHackMe.
 <br>🏵️ Ranked <strong>#6</strong> in Poland on TryHackMe. (April 2023)
 <br>👨‍🎓 Finished high school with <i><strong>4.9 GPA.</strong></i>
-<br>🔭 Currently working on getting to <strong><i>TOP 10</i></strong> in Poland on Let's Defend.
+<br>🔭 Currently recording a free video course on Youtube.
 <br>
 <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/t00c4N.png" alt="TryHackMe">
 
 ## 🌐 Socials: 
 [![Tryhackme](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/t00c4N)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Hakuj-Etycznie)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@hakuj_etycznie)
+<br>
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/WiktorGmur)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pl-pl/users/wiktorgmur-4688/transcript)
 
