@@ -9,6 +9,8 @@
 <br>
 <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/t00c4N.png" alt="TryHackMe">
+<br>
+<img src="https://www.codewars.com/users/WiktorGmur/badges/large" alt="Codewars">
 
 ## 🌐 Socials: 
 [![Tryhackme](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/t00c4N)
