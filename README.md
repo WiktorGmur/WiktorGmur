@@ -4,7 +4,7 @@
 <br>📸 Owner of <i><strong>"Hakuj Etycznie"</strong></i> on Youtube and Tiktok.
 <br>🏆 <strong>TOP 1%</strong> on TryHackMe.
 <br>🏵️ Ranked <strong>#6</strong> in Poland on TryHackMe. (April 2023)
-<br>🦔 Holding a position in <strong><i>TOP 20 </i></strong> on Let's Defend.
+<br>🦔 Holding a position in <strong><i>TOP 20 </i></strong> on Let's Defend in Poland.
 <br>👨‍🎓 Finished high school with <i><strong>4.9 GPA.</strong></i>
 <br>🔭 Currently recording a free video course on Youtube.
 <br>
