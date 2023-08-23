@@ -8,15 +8,10 @@
 <br>
 <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/t00c4N.png" alt="TryHackMe">
-<br>
-<img src="https://www.codewars.com/users/WiktorGmur/badges/large" alt="Codewars">
+
 
 ## 🌐 Socials: 
 [![Tryhackme](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/t00c4N)
-<br>
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/WiktorGmur)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pl-pl/users/wiktorgmur-4688/transcript)
-
 
 ## 💻 Technologies:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
