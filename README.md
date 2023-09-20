@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2050&pause=700&color=0FF700&multiline=true&width=1000&height=100&lines=%24whoami;NSOC+L1+Analyst)](https://git.io/typing-svg)
 
-🙋‍♂️ Cybersecurity student looking for improvement opportunities.
+🙋‍♂️ NSOC L1 Analyst, constantly seeking new challenges.
 <br>🏆 <strong>TOP 1%</strong> on TryHackMe.
 <br>🏵️ Ranked <strong>#6</strong> in Poland on TryHackMe. (April 2023)
 <br>🦔 Holding a position in <strong><i>TOP 10 </i></strong> on Let's Defend in Poland.
