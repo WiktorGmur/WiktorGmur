@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2050&pause=700&color=0FF700&multiline=true&width=1000&height=100&lines=%24whoami;Network+Security+Analyst)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2050&pause=700&color=0FF700&multiline=true&width=1000&height=100&lines=%24whoami;NSOC+L1+Analyst)](https://git.io/typing-svg)
 
 🙋‍♂️ Cybersecurity student looking for improvement opportunities.
 <br>🏆 <strong>TOP 1%</strong> on TryHackMe.
@@ -18,17 +18,11 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 <br>
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)
-<br>
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=Blazor&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-<br>
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+<br>
+![Tor](https://img.shields.io/badge/-Tor%20Browser-%237D4698?style=for-the-badge&logo=torbrowser&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Virustotal](https://img.shields.io/badge/-VirusTotal-%23394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 <br>
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
